@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Controller.iml" filepath="$PROJECT_DIR$/Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Controller-Arduino.iml" filepath="$PROJECT_DIR$/Controller-Arduino.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -19,10 +19,7 @@ public class View extends AppCompatActivity {
     Button back;
     StringBuffer stringBuffer;
 
-    @Override
-    public void onConfigurationChanged(Configuration newConfig) {
-        super.onConfigurationChanged(newConfig);
-    }
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
