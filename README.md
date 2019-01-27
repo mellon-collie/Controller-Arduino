@@ -1,1 +1,1 @@
-An android application that communicates and controls an Arduino (connected with a HC-05 module) via Bluetooth.
+1) An android application that communicates and controls an Arduino (connected with a HC-05 module) via Bluetooth using the request-response model. The application also monitors the readings from the arduino and plots it as a time series.
